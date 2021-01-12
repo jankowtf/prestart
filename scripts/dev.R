@@ -1,0 +1,11 @@
+renv::install("usethis", rebuild = TRUE)
+renv::install("testthat")
+renv::install("rmarkdown")
+renv::install("roxygen2")
+renv::install("styler")
+usethis::use_package("usethis")
+usethis::use_package("testthat")
+usethis::use_package("rmarkdown")
+usethis::use_package("roxygen2")
+usethis::use_package("styler")
+
