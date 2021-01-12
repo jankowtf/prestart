@@ -1,3 +1,9 @@
+# prestart 0.0.0.9002
+
+Name
+
+- Added `options(usethis.full_name = "Janko Thyson")` in `prestart()`
+
 # prestart 0.0.0.9001
 
 renv

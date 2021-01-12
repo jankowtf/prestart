@@ -21,5 +21,7 @@ prestart <- function() {
   usethis::use_tidy_eval()
   usethis::use_tidy_style()
 
+  options(usethis.full_name = "Janko Thyson")
+
   TRUE
 }
