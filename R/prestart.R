@@ -13,6 +13,7 @@ prestart <- function() {
 
   usethis::use_news_md(open = FALSE)
   usethis::use_mit_license()
+  usethis::use_roxygen_md()
   usethis::use_package_doc()
   usethis::use_pipe()
   usethis::use_revdep()
