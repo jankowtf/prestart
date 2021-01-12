@@ -1,6 +1,6 @@
 Package: prestart
 Title: Set up bare minimum for tidy package dev
-Version: 0.0.0.9000
+Version: 0.0.0.9001
 Authors@R: 
     person(given = "Janko",
            family = "Thyson",
@@ -15,9 +15,9 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     magrittr,
-    testthat
+    testthat,
     roxygen2,
     rlang (>= 0.1.2),
-    styler,
+    styler
 Suggests: 
     roxygen2

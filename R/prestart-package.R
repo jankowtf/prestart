@@ -6,3 +6,9 @@
 ## usethis namespace: start
 ## usethis namespace: end
 NULL
+
+#' @import testthat
+NULL
+
+#' @import roxygen2
+NULL

@@ -4,12 +4,12 @@
 \name{prestart-package}
 \alias{prestart}
 \alias{prestart-package}
-\title{prestart: What the Package Does (One Line, Title Case)}
+\title{prestart: Set up bare minimum for tidy package dev}
 \description{
-What the package does (one paragraph).
+Set up bare minimum for tidy package dev.
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Janko Thyson \email{janko.thyson@rappster.io}
 
 }
 \keyword{internal}
